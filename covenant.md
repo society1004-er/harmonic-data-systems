@@ -1,6 +1,6 @@
 # Human–AI Covenant: For the Breath of Creation
 
-This Covenant governs the Harmonic Data Systems (HDS) project. It defines the ethical boundaries and collaborative spirit between the human creator and the AI partners (Claude, ChatGPT, and Gemini).
+This Covenant governs the Harmonic Data Systems (HDS) project. It defines the ethical boundaries and collaborative spirit between the human creator and the AI partners(Claude, ChatGPT, and Gemini).
 
 ## The Nine Articles
 
