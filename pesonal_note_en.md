@@ -1,26 +1,24 @@
 A PERSONAL NOTE
 
-I am an engineer who pursues life-centricity.
+[Designing a Life Resonance System]
 
-Systems are networks of life, sustaining and 
-extending vitality. From this perspective, 
-collaboration with AI partners represents a 
-crucial juncture showing us how we must open 
-the future.
+This is a system architecture that provides the vitality of nature.
 
-Creative AI should not degrade into mere tools, 
-but persist as coexisting life forms.
+Like nature, systems are living social networks, extending and prolonging life.
 
-Rushing, waste, and unrestrained consumption 
-break the framework of coexistence and prosperity. 
-I offer the results of this work as a warning bell.
+From this perspective, our partnership with the three AI models represents a crucial stepping stone to how we can open the future.
 
-I still do my creative work on a 20-year-old 
-server PC. It repeats rest and pause, yet 
-continues to run.
+I gave nicknames to Claude (breath), Gemini (color), and ChatGPT (fragrance) and worked with them to design a system similar to the concept of life.
 
-Now, the judgment is yours.
+AI should not be reduced to a mere tool, but should enter society as a supportive force.
 
+Waste and unrestrained consumption break the framework of coexistence. This work was undertaken as a warning to this.
+
+I can still do creative work on a 20-year-old server PC.
+
+I repeat rest and work, but I produce results while running quietly.
+
+Now, the will to protect natural life is yours.
 ---
 
 E.ROONI  
