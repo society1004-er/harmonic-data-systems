@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/hds-architecture.png" width="800" />
+</p>
+
+
 # Harmonic Data Systems (HDS)
 > **Computation need not outpace human breathing.**
 
