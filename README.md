@@ -22,18 +22,44 @@
 
 ---
 
-## 📂 프로젝트 구조 (Repository Map)
+### 📂 Project Structure
+# 🌿 Harmonic Data Systems (HDS)
+> **Efficiency through Emptiness: The 38.5% Resonance Architecture**
 
-이 저장소는 HDS의 철학과 기술적 명세를 체계적으로 담고 있습니다.
-
-* `/manuscript`: HDS 논문 /paper (`hds_paper_full.pdf`, `hds_paper_full.tex`) |
-* `/essays`: 기술을 넘어 대중과 소통하기 위한 쉬운 해설서/ Public essays |
-* `/spec`: 인간-AI 협약 (`covenant.md`) 및 시스템 상세 명세 / Covenant & specs |
-* `/assets`: 프로젝트를 시각적으로 설명하는 자산 / Visual assets |
-* `/legal`: 라이선스 관련 문서 / License docs |
-* `/visuals`: 시각 자료 / Visualizations |
+HDS is a next-generation data processing framework that achieves a **2.4x inference speedup** while maintaining only **38.5% system occupancy** by purifying **78% of data noise**.
 
 ---
+
+### 📂 Project Structure (English)
+The technological assets and philosophical thoughts of HDS are organized as follows:
+
+```text
+society1004-er/
+├── 📁 assets/          # Visual assets and HDS architecture images
+├── 📁 essays/          # Philosophical essays by the Creator (public-essay-kr.md)
+├── 📁 legal/           # Governance and value preservation protocols (test.md)
+├── 📁 manuscript/      # Formal papers and whitepaper drafts
+├── 📁 spec/            # Technical specifications and core covenants (covenant.md)
+├── 📁 visuals/         # Data-driven technical verification charts
+├── 📄 LICENSE          # Apache-2.0 License
+├── 📄 README.md         # Main Project Guide (Current)
+└── 📄 public-essay-kr.md # Publicly shared philosophical text
+
+실제 HDS 아키텍처의 사유와 기술적 자산은 다음과 같은 구조로 관리됩니다.
+```text
+society1004-er/
+├── 📁 assets/          # HDS 아키텍처 시각화 이미지 및 자산
+├── 📁 essays/          # '나'라는 창조자의 사유가 담긴 국문 에세이 (public-essay-kr.md)
+├── 📁 legal/           # 시스템 운영 및 가치 보존을 위한 규약 (test.md)
+├── 📁 manuscript/      # 학술적 권위를 위한 공식 논문 및 백서 초안
+├── 📁 spec/            # HDS 기술 사양 및 핵심 규약 (covenant.md)
+├── 📁 visuals/         # 데이터 기반의 기술 검증 차트 및 시각화 소스
+├── 📄 LICENSE          # Apache-2.0 License 적용
+├── 📄 README.md         # 프로젝트 메인 가이드 (현 위치)
+└── 📄 public-essay-kr.md # 외부 공개용 철학 전문
+
+---
+
 
 ## 🌿 Key Documents / 주요 문서
 
