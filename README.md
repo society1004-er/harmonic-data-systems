@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hds-architecture.png" width="600" />
+  <img src="./assets/hds-architecture.png" width="600"/>
 </p>
 
 
