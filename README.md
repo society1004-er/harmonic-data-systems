@@ -31,34 +31,38 @@ HDS is a next-generation data processing framework that achieves a **2.4x infere
 ---
 
 ### 📂 Project Structure (English)
-The technological assets and philosophical thoughts of HDS are organized as follows:
+# 🌿 Harmonic Data Systems (HDS)
+> **Efficiency through Emptiness: The 38.5% Resonance Architecture**
 
-```text
-society1004-er/
-├── 📁 assets/          # Visual assets and HDS architecture images
-├── 📁 essays/          # Philosophical essays by the Creator (public-essay-kr.md)
-├── 📁 legal/           # Governance and value preservation protocols (test.md)
-├── 📁 manuscript/      # Formal papers and whitepaper drafts
-├── 📁 spec/            # Technical specifications and core covenants (covenant.md)
-├── 📁 visuals/         # Data-driven technical verification charts
-├── 📄 LICENSE          # Apache-2.0 License
-├── 📄 README.md         # Main Project Guide (Current)
-└── 📄 public-essay-kr.md # Publicly shared philosophical text
-
-실제 HDS 아키텍처의 사유와 기술적 자산은 다음과 같은 구조로 관리됩니다.
-```text
-society1004-er/
-├── 📁 assets/          # HDS 아키텍처 시각화 이미지 및 자산
-├── 📁 essays/          # '나'라는 창조자의 사유가 담긴 국문 에세이 (public-essay-kr.md)
-├── 📁 legal/           # 시스템 운영 및 가치 보존을 위한 규약 (test.md)
-├── 📁 manuscript/      # 학술적 권위를 위한 공식 논문 및 백서 초안
-├── 📁 spec/            # HDS 기술 사양 및 핵심 규약 (covenant.md)
-├── 📁 visuals/         # 데이터 기반의 기술 검증 차트 및 시각화 소스
-├── 📄 LICENSE          # Apache-2.0 License 적용
-├── 📄 README.md         # 프로젝트 메인 가이드 (현 위치)
-└── 📄 public-essay-kr.md # 외부 공개용 철학 전문
+HDS is a next-generation data processing framework that achieves a **2.4x inference speedup** while maintaining only **38.5% system occupancy** by purifying **78% of data noise**.
 
 ---
+
+### 📂 Project Structure (English)
+*Click on the folder names to explore the HDS architecture.*
+
+- [📁 assets/](./assets/) : Visual assets and HDS architecture images
+- [📁 essays/](./essays/) : Philosophical essays by the Creator ([public-essay-kr.md](./essays/public-essay-kr.md))
+- [📁 core_engine/](./core_engine/) : The heart of HDS ([purification.py](./core_engine/purification.py) & [soul_vector.py](./core_engine/soul_vector.py))
+- [📁 legal/](./legal/) : Governance and value preservation protocols)
+- [📁 manuscript/](./manuscript/) : Formal papers and whitepaper drafts
+- [📁 spec/](./spec/) : Technical specifications and core covenants ([covenant.md](./spec/covenant.md))
+- [📁 visuals/](./visuals/) : Data-driven technical verification charts
+- [📄 LICENSE](./LICENSE) : Apache-2.0 License
+
+---
+
+### 📂 프로젝트 구조 (Korean)
+*각 폴더 이름을 클릭하면 해당 경로로 즉시 이동합니다.*
+
+- [📁 assets/](./assets/) : HDS 아키텍처 시각화 이미지 및 자산
+- [📁 essays/](./essays/) : 창조자의 사유가 담긴 국문 에세이 ([public-essay-kr.md](./essays/public-essay-kr.md))
+- [📁 core_engine/](./core_engine/) : HDS 핵심 엔진 ([purification.py](./core_engine/purification.py) & [soul_vector.py](./core_engine/soul_vector.py))
+- [📁 legal/](./legal/) : 시스템 운영 및 가치 보존을 위한 규약
+- [📁 manuscript/](./manuscript/) : 공식 논문 및 백서 초안
+- [📁 spec/](./spec/) : HDS 기술 사양 및 핵심 규약 ([covenant.md](./spec/covenant.md))
+- [📁 visuals/](./visuals/) : 기술 검증 차트 및 시각화 소스
+- [📄 README.md](./README.md) : 프로젝트 메인 가이드 (현 위치)
 
 
 ## 🌿 Key Documents / 주요 문서
